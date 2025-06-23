@@ -1,0 +1,4 @@
+*.pkl
+__pycache__/
+.env
+openai_key.txt
